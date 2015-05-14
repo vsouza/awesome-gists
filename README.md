@@ -81,4 +81,4 @@ Tips to improve your osx
 * [Clear Cocoapods cache and update](https://gist.github.com/mbinna/4202236)
 
 # Contributing
-[See the guide](https://github.com/vsouza/awesome-ios/blob/master/CONTRIBUTING.md)
+[See the guide](https://github.com/vsouza/awesome-gists/blob/master/CONTRIBUTING.md)
