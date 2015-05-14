@@ -1,8 +1,10 @@
 # Awesome Gists
 
-A collection of awesome Github gists
+A collection of awesome gists. Feel free to contribute. 
 
 ## Databases
+
+All databases are welcome :)
 
 #### MySQL
 * [My simply MySQL Command Line Cheatsheet](https://gist.github.com/hofmannsven/9164408)
@@ -28,6 +30,8 @@ A collection of awesome Github gists
 
 ## Services
 
+Most used services to deploy, and host your applications.
+
 #### Heroku
 * [Using Rails+Bower on Heroku](https://gist.github.com/afeld/5704079/)
 * [Heroku Cheatsheet](https://gist.github.com/rbetina/2891a498de400cbe8f1e)
@@ -50,17 +54,28 @@ A collection of awesome Github gists
 * [Testing Tornado RequestHandlers](https://gist.github.com/didip/867589)
 
 ## YAML
+
+Parsers, files with data collections and more.
+
 * [Read YAML file from Bash script](https://gist.github.com/pkuczynski/8665367)
 
 ## JSON
+
+Parsers, files with data collections and more.
+
 * [US states in JSON form](https://gist.github.com/mshafrir/2646763)
 
 
 ## Enviroment
+Enviroment configurations and tutorials
+
 * [Vagrant Tutorial](https://gist.github.com/dergachev/3866825)
 * [Tutorial for running Meteor in Windows using Vagrant](https://gist.github.com/gabrielhpugliese/5855677)
 * [Vagrant Provisioning Script for PHP applications. This installs a LAMP stack.](https://gist.github.com/fideloper/7074502)
 
 ## OSX Tips
+
+Tips to improve your osx
+
 * [OSX for Hackers](https://gist.github.com/brandonb927/3195465)
 
