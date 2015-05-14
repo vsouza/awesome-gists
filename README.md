@@ -79,3 +79,5 @@ Tips to improve your osx
 
 * [OSX for Hackers](https://gist.github.com/brandonb927/3195465)
 
+# Contributing
+[See the guide](https://github.com/vsouza/awesome-ios/blob/master/CONTRIBUTING.md)
