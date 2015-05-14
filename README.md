@@ -2,6 +2,22 @@
 
 A collection of awesome gists. Feel free to contribute. 
 
+## TOC
+* [Databases](#databases)
+  * [MySQL](#mysql)
+  * [Redis](#redis)
+  * [MongoDB](#mongodb)
+  * [DynamoDB](#dynamodb)
+* [Services](#services)
+  * [Heroku](#heroku)
+  * [Amazon](#amazon)
+  * [Tsuru](#tsuru)
+* [Testing](#testing)
+* [YAML](#yaml)
+* [JSON](#json)
+* [Environment](#environment)
+* [OSX Tips](#osx-tips)
+
 ## Databases
 
 All databases are welcome :)
@@ -66,8 +82,8 @@ Parsers, files with data collections and more.
 * [US states in JSON form](https://gist.github.com/mshafrir/2646763)
 
 
-## Enviroment
-Enviroment configurations and tutorials
+## Environment
+Environment configurations and tutorials
 
 * [Vagrant Tutorial](https://gist.github.com/dergachev/3866825)
 * [Tutorial for running Meteor in Windows using Vagrant](https://gist.github.com/gabrielhpugliese/5855677)
