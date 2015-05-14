@@ -78,6 +78,7 @@ Enviroment configurations and tutorials
 Tips to improve your osx
 
 * [OSX for Hackers](https://gist.github.com/brandonb927/3195465)
+* [Clear Cocoapods cache and update](https://gist.github.com/mbinna/4202236)
 
 # Contributing
 [See the guide](https://github.com/vsouza/awesome-ios/blob/master/CONTRIBUTING.md)
