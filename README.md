@@ -52,7 +52,7 @@ A collection of awesome Github gists
 * [US states in JSON form](https://gist.github.com/mshafrir/2646763)
 
 
-## Automation / Deploy
+## Enviroment
 * [Vagrant Tutorial](https://gist.github.com/dergachev/3866825)
 * [Tutorial for running Meteor in Windows using Vagrant](https://gist.github.com/gabrielhpugliese/5855677)
 * [Vagrant Provisioning Script for PHP applications. This installs a LAMP stack.](https://gist.github.com/fideloper/7074502)
