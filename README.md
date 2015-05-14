@@ -3,14 +3,17 @@
 A collection of awesome Github gists
 
 ## Databases
+
 #### MySQL
 * [My simply MySQL Command Line Cheatsheet](https://gist.github.com/hofmannsven/9164408)
 * [MySQL to Sqlite converter](https://gist.github.com/esperlu/943776)
+
 #### Redis
 * [A CentOS initscript for Redis](https://gist.github.com/paulrosania/257849)
 * [Init.d Redis script for Ubuntu](https://gist.github.com/lsbardel/257298)
 * [Monit Redis](https://gist.github.com/cyx/3690597)
 * [Flynn Redis](https://gist.github.com/lmars/fca0f18b4ecd507fb39a)
+
 #### MongoDB
 * [Pub/sub with MongoDB and Node.js](https://gist.github.com/scttnlsn/3210919)
 * [Create super user and database user in Mongo 2.6](https://gist.github.com/tamoyal/10441108)
@@ -18,6 +21,7 @@ A collection of awesome Github gists
 * [MongoDB and F#](https://gist.github.com/mattpodwysocki/218388)
 * [Flynn MongoDB](https://gist.github.com/lmars/8be1952a8d03f8a31b17)
 * [MongoDB ReplicaSet Backup Script on Google Compute Engine and Google Cloud Storage](https://gist.github.com/erans/ce21c919921608d064cd)
+
 #### DynamoDB
 * [Prettied up some AWS Ruby SDK DynamoDB examples from @integralist.](https://gist.github.com/kenoir/8998532)
 * [convert DynamoDb JSON to regular JSON javascript objects](https://gist.github.com/sansmischevia/5148109)
