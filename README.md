@@ -95,6 +95,7 @@ Tips to improve your osx
 
 * [OSX for Hackers](https://gist.github.com/brandonb927/3195465)
 * [Clear Cocoapods cache and update](https://gist.github.com/mbinna/4202236)
+* [OS X Screencast to animated GIF](https://gist.github.com/dergachev/4627207)
 
 # Contributing
 [See the guide](https://github.com/vsouza/awesome-gists/blob/master/CONTRIBUTING.md)
