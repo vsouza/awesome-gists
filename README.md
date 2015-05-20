@@ -80,6 +80,7 @@ Parsers, files with data collections and more.
 Parsers, files with data collections and more.
 
 * [US states in JSON form](https://gist.github.com/mshafrir/2646763)
+* [Python Read JSON from HTTP Request of URL](https://gist.github.com/sirleech/2660189)
 
 
 ## Environment
