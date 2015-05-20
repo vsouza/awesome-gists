@@ -15,6 +15,7 @@ A collection of awesome gists. Feel free to contribute.
 * [Testing](#testing)
 * [YAML](#yaml)
 * [JSON](#json)
+  * [Python](#python)
 * [Environment](#environment)
 * [OSX Tips](#osx-tips)
 
@@ -80,7 +81,10 @@ Parsers, files with data collections and more.
 Parsers, files with data collections and more.
 
 * [US states in JSON form](https://gist.github.com/mshafrir/2646763)
+
+####Python
 * [Python Read JSON from HTTP Request of URL](https://gist.github.com/sirleech/2660189)
+* [Python JSON Benchmark](https://gist.github.com/lightcatcher/1136415)
 
 
 ## Environment
