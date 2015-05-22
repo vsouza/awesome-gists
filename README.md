@@ -19,6 +19,7 @@ A collection of awesome gists. Feel free to contribute.
   * [Python](#python)
 * [Environment](#environment)
 * [OSX Tips](#osx-tips)
+* [iOS](#ios)
 
 ## Databases
 
@@ -107,6 +108,16 @@ Tips to improve your osx
 * [OSX for Hackers](https://gist.github.com/brandonb927/3195465)
 * [Clear Cocoapods cache and update](https://gist.github.com/mbinna/4202236)
 * [OS X Screencast to animated GIF](https://gist.github.com/dergachev/4627207)
+
+## iOS
+* [Quicksort in Swift](https://gist.github.com/fjcaetano/b0c00a889dc2a17efad9)
+* [Objective-C Coding Convention and Best Practices](https://gist.github.com/soffes/812796)
+* [Generate a random color (UIColor) in Objective-C](https://gist.github.com/kylefox/1689973)
+* [Objective-C Entity System](https://gist.github.com/atarola/1175972)
+* [Objective-C Language Enhancements](https://gist.github.com/sakrist/f97499de2dd6687d6403)
+* [Objective-C Literals, part 2 support files](https://gist.github.com/markd2/2135746)
+
+
 
 # Contributing
 [See the guide](https://github.com/vsouza/awesome-gists/blob/master/CONTRIBUTING.md)
