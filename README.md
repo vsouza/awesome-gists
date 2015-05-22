@@ -12,6 +12,7 @@ A collection of awesome gists. Feel free to contribute.
   * [Heroku](#heroku)
   * [Amazon](#amazon)
   * [Tsuru](#tsuru)
+  * [CloudFlare](#cloudflare)
 * [Testing](#testing)
 * [YAML](#yaml)
 * [JSON](#json)
@@ -65,6 +66,11 @@ Most used services to deploy, and host your applications.
 
 #### Tsuru
 * [Deploying Go applications in tsuru](https://gist.github.com/andrewsmedina/8857051)
+
+#### CloudFlare
+* [Automatically update your CloudFlare DNS record to the IP, Dynamic DNS](https://gist.github.com/larrybolt/6295160)
+* [CloudFlare DNS records updater](https://gist.github.com/gentlecat/3149751)
+* [CloudFlare command-line DNS management shell script](https://gist.github.com/jaytaylor/6273175)
 
 ## Testing
 * [Selenium with Python](https://gist.github.com/daemianmack/1099713)
