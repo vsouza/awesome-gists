@@ -17,6 +17,7 @@ A collection of awesome gists. Feel free to contribute.
 * [YAML](#yaml)
 * [JSON](#json)
   * [Python](#python)
+* [Languages](#languages)
 * [Environment](#environment)
 * [OSX Tips](#osx-tips)
 * [iOS](#ios)
@@ -93,6 +94,9 @@ Parsers, files with data collections and more.
 * [Python Read JSON from HTTP Request of URL](https://gist.github.com/sirleech/2660189)
 * [Python JSON Benchmark](https://gist.github.com/lightcatcher/1136415)
 
+## Languages
+#### Python
+* [Testing Tornado RequestHandlers](https://gist.github.com/didip/867589)
 
 ## Environment
 Environment configurations and tutorials
