@@ -100,6 +100,7 @@ Environment configurations and tutorials
 * [Vagrant Tutorial](https://gist.github.com/dergachev/3866825)
 * [Tutorial for running Meteor in Windows using Vagrant](https://gist.github.com/gabrielhpugliese/5855677)
 * [Vagrant Provisioning Script for PHP applications. This installs a LAMP stack.](https://gist.github.com/fideloper/7074502)
+* [Golang 1.4.1 setup in Mac OSX with HomeBrew.](https://gist.github.com/vsouza/77e6b20520d07652ed7d)
 
 ## OSX Tips
 
