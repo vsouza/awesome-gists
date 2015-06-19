@@ -98,6 +98,9 @@ Parsers, files with data collections and more.
 #### Python
 * [Testing Tornado RequestHandlers](https://gist.github.com/didip/867589)
 
+#### Golang
+* [example of using JWT for http authentication in go](https://gist.github.com/cryptix/45c33ecf0ae54828e63b#file-asymmetric-go-L152)
+
 ## Environment
 Environment configurations and tutorials
 
