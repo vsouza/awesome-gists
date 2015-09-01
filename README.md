@@ -102,6 +102,7 @@ Parsers, files with data collections and more.
 #### Golang
 * [example of using JWT for http authentication in go](https://gist.github.com/cryptix/45c33ecf0ae54828e63b#file-asymmetric-go-L152)
 * [extract a javascript object value from a html page using goquery and otto](https://gist.github.com/cryptix/87127f76a94183747b53)
+* [Parse a JSON http POST in GoLang](https://gist.github.com/andreagrandi/97263aaf7f9344d3ffe6)
 
 ## Environment
 Environment configurations and tutorials
