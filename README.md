@@ -13,7 +13,7 @@ A collection of awesome gists. Feel free to contribute.
   * [Amazon](#amazon)
   * [Tsuru](#tsuru)
   * [CloudFlare](#cloudflare)
-* [Terminal]
+* [Terminal](#terminal)
   * [Tmux](#tmux)
 * [Testing](#testing)
 * [YAML](#yaml)
