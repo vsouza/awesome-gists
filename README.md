@@ -13,6 +13,8 @@ A collection of awesome gists. Feel free to contribute.
   * [Amazon](#amazon)
   * [Tsuru](#tsuru)
   * [CloudFlare](#cloudflare)
+* [Terminal]
+  * [Tmux](#tmux)
 * [Testing](#testing)
 * [YAML](#yaml)
 * [JSON](#json)
@@ -74,6 +76,10 @@ Most used services to deploy, and host your applications.
 * [CloudFlare DNS records updater](https://gist.github.com/gentlecat/3149751)
 * [CloudFlare command-line DNS management shell script](https://gist.github.com/jaytaylor/6273175)
 
+## Terminal
+
+#### Tmux
+* [Tmux shortcuts & cheatsheet](https://gist.github.com/MohamedAlaa/2961058)
 ## Testing
 * [Selenium with Python](https://gist.github.com/daemianmack/1099713)
 * [Testing Tornado RequestHandlers](https://gist.github.com/didip/867589)
