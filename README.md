@@ -113,6 +113,9 @@ Parsers, files with data collections and more.
 * [Golang Reflection Example](https://gist.github.com/drewolson/4771479)
 * [Mongo Driver - Mgo Example](https://gist.github.com/border/3489566)
 
+#### JavaScript
+* [ES6 highlight reel](https://gist.github.com/getify/2b53198906d320abe650)
+
 ## Environment
 Environment configurations and tutorials
 
