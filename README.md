@@ -15,6 +15,7 @@ A collection of awesome gists. Feel free to contribute.
   * [CloudFlare](#cloudflare)
 * [Terminal](#terminal)
   * [Tmux](#tmux)
+  * [Zsh] (#zsh)
   
 * [Testing](#testing)
 * [YAML](#yaml)
@@ -81,6 +82,10 @@ Most used services to deploy, and host your applications.
 
 #### Tmux
 * [Tmux shortcuts & cheatsheet](https://gist.github.com/MohamedAlaa/2961058)
+
+#### Zsh
+* [iTerm2 + oh my zsh + solarized + Meslo powerline font (OSX)](https://gist.github.com/kevin-smets/8568070)
+
 ## Testing
 * [Selenium with Python](https://gist.github.com/daemianmack/1099713)
 * [Testing Tornado RequestHandlers](https://gist.github.com/didip/867589)
