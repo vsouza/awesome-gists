@@ -1,4 +1,4 @@
-# Awesome Gists
+# # Awesome Gists
 
 [![Build Status](https://travis-ci.org/vsouza/awesome-gists.svg?branch=master)](https://travis-ci.org/vsouza/awesome-gists)
 
@@ -11,7 +11,7 @@ A collection of awesome gists. Feel free to contribute.
   * [MongoDB](#mongodb)
   * [DynamoDB](#dynamodb)
 * [Services](#services)
-  * [Heroku](#heroku)
+  * [Heroku](#heroku) 
   * [Amazon](#amazon)
   * [Tsuru](#tsuru)
   * [CloudFlare](#cloudflare)
@@ -90,7 +90,6 @@ Most used services to deploy, and host your applications.
 
 ## Testing
 * [Selenium with Python](https://gist.github.com/daemianmack/1099713)
-* [Testing Tornado RequestHandlers](https://gist.github.com/didip/867589)
 
 ## YAML
 
@@ -152,3 +151,5 @@ Tips to improve your osx
 
 # Contributing
 [See the guide](https://github.com/vsouza/awesome-gists/blob/master/CONTRIBUTING.md)
+
+
