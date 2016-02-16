@@ -1,4 +1,4 @@
-# # Awesome Gists
+# Awesome Gists
 
 [![Build Status](https://travis-ci.org/vsouza/awesome-gists.svg?branch=master)](https://travis-ci.org/vsouza/awesome-gists)
 
