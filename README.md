@@ -1,5 +1,7 @@
 # Awesome Gists
 
+[![Build Status](https://travis-ci.org/vsouza/awesome-gists.svg?branch=master)](https://travis-ci.org/vsouza/awesome-gists)
+
 A collection of awesome gists. Feel free to contribute. 
 
 ## TOC
