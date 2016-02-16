@@ -60,7 +60,6 @@ Most used services to deploy, and host your applications.
 
 #### Heroku
 * [Using Rails+Bower on Heroku](https://gist.github.com/afeld/5704079/)
-* [Heroku Cheatsheet](https://gist.github.com/rbetina/2891a498de400cbe8f1e)
 * [My Heroku Values](https://gist.github.com/adamwiggins/5687294)
 * [Rakefile to deploy and rollback to Heroku in two different environments for the same app](https://gist.github.com/njvitto/362873)
 * [Heroku, Ruby on Rails and PhantomJS](https://gist.github.com/edelpero/9257311)
