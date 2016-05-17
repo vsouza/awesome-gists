@@ -1,9 +1,11 @@
-language: ruby
-rvm:
-  - 2.2
-before_script:
-  - gem install awesome_bot
-script:
-  - awesome_bot README.md --white-list CONTRIBUTING.md,travis
-notifications:
-  email: false
+language: go
+
+go:
+  - 1.4
+  - 1.5
+  
+sudo: false
+
+install:
+  - go get github.com/russross/blackfriday
+  - go get github.com/PuerkitoBio/goquery
