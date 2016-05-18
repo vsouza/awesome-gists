@@ -145,7 +145,7 @@ Tips to improve your osx
 * [Objective-C Language Enhancements](https://gist.github.com/sakrist/f97499de2dd6687d6403)
 * [Objective-C Literals, part 2 support files](https://gist.github.com/markd2/2135746)
 * [Functional Reactive Programming (FRP) Links](https://gist.github.com/JaviLorbada/4a7bd6129275ebefd5a6)
-
+* [GraphQL data structure implemented in Swift](https://gist.github.com/davbeck/e96b543bc0184b04353e)
 
 
 # Contributing
