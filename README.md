@@ -1,6 +1,7 @@
 # Awesome Gists
 
 [![Build Status](https://travis-ci.org/vsouza/awesome-gists.svg?branch=master)](https://travis-ci.org/vsouza/awesome-gists)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
 
 A collection of awesome gists. Feel free to contribute. 
 
