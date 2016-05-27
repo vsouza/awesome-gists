@@ -118,6 +118,7 @@ Parsers, files with data collections and more.
 * [Parse a JSON http POST in GoLang](https://gist.github.com/andreagrandi/97263aaf7f9344d3ffe6)
 * [Golang Reflection Example](https://gist.github.com/drewolson/4771479)
 * [Mongo Driver - Mgo Example](https://gist.github.com/border/3489566)
+* [Example of using http.Get in go (golang)](https://gist.github.com/ijt/950790)
 
 #### JavaScript
 * [ES6 highlight reel](https://gist.github.com/getify/2b53198906d320abe650)
