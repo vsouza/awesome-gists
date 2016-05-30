@@ -125,6 +125,7 @@ Parsers, files with data collections and more.
 
 #### PHP
  * [How to install Composer globally using MAMP's PHP](https://gist.github.com/kkirsche/5710272)
+ 
 ## Environment
 Environment configurations and tutorials
 
