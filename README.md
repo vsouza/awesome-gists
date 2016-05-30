@@ -123,6 +123,8 @@ Parsers, files with data collections and more.
 #### JavaScript
 * [ES6 highlight reel](https://gist.github.com/getify/2b53198906d320abe650)
 
+#### PHP
+ * [How to install Composer globally using MAMP's PHP](https://gist.github.com/kkirsche/5710272)
 ## Environment
 Environment configurations and tutorials
 
