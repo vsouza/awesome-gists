@@ -25,7 +25,7 @@ A collection of awesome gists. Feel free to contribute.
   * [Python](#python)
 * [Languages](#languages)
 * [Environment](#environment)
-* [OSX Tips](#osx-tips)
+* [OSX](#osx)
 * [iOS](#ios)
   * [Objective-C](#objective-c)
   * [Swift](#swift)
@@ -135,10 +135,11 @@ Environment configurations and tutorials
 * [Vagrant Provisioning Script for PHP applications. This installs a LAMP stack.](https://gist.github.com/fideloper/7074502)
 * [Golang 1.4.1 setup in Mac OSX with HomeBrew.](https://gist.github.com/vsouza/77e6b20520d07652ed7d)
 
-## OSX Tips
+## OSX
 
-Tips to improve your osx
 
+#### Tips
+ Tips to improve your osx
 * [OSX for Hackers](https://gist.github.com/brandonb927/3195465)
 * [Clear Cocoapods cache and update](https://gist.github.com/mbinna/4202236)
 * [OS X Screencast to animated GIF](https://gist.github.com/dergachev/4627207)
