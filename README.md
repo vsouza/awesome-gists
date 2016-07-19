@@ -1,7 +1,9 @@
-# Awesome Gists
+
+<img src="https://cl.ly/0S3e2k2U2p3r/Screen%20Shot%202016-07-19%20at%206.03.35%20PM.png" />
 
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE.md)
+
 
 A collection of awesome gists. Feel free to contribute. 
 
