@@ -19,7 +19,6 @@ A collection of awesome gists. Feel free to contribute.
 * [Terminal](#terminal)
   * [Tmux](#tmux)
   * [Zsh] (#zsh)
-  
 * [Testing](#testing)
 * [YAML](#yaml)
 * [JSON](#json)
@@ -28,6 +27,8 @@ A collection of awesome gists. Feel free to contribute.
 * [Environment](#environment)
 * [OSX Tips](#osx-tips)
 * [iOS](#ios)
+  * [Objective-C](#objective-c)
+  * [Swift](#swift)
 
 ## Databases
 
@@ -143,15 +144,20 @@ Tips to improve your osx
 * [OS X Screencast to animated GIF](https://gist.github.com/dergachev/4627207)
 
 ## iOS
-* [Quicksort in Swift](https://gist.github.com/fjcaetano/b0c00a889dc2a17efad9)
-* [Objective-C Coding Convention and Best Practices](https://gist.github.com/soffes/812796)
-* [Generate a random color (UIColor) in Objective-C](https://gist.github.com/kylefox/1689973)
-* [Objective-C Entity System](https://gist.github.com/atarola/1175972)
-* [Objective-C Language Enhancements](https://gist.github.com/sakrist/f97499de2dd6687d6403)
-* [Objective-C Literals, part 2 support files](https://gist.github.com/markd2/2135746)
-* [Functional Reactive Programming (FRP) Links](https://gist.github.com/JaviLorbada/4a7bd6129275ebefd5a6)
-* [GraphQL data structure implemented in Swift](https://gist.github.com/davbeck/e96b543bc0184b04353e)
-* [Alamofire and RxSwift](https://gist.github.com/mbalex99/8802db1695f20c520ca0)
+
+ * [Functional Reactive Programming (FRP) Links](https://gist.github.com/JaviLorbada/4a7bd6129275ebefd5a6)
+
+#### Objective-C
+ * [Objective-C Coding Convention and Best Practices](https://gist.github.com/soffes/812796)
+ * [Generate a random color (UIColor) in Objective-C](https://gist.github.com/kylefox/1689973)
+ * [Objective-C Entity System](https://gist.github.com/atarola/1175972)
+ * [Objective-C Language Enhancements](https://gist.github.com/sakrist/f97499de2dd6687d6403)
+ * [Objective-C Literals, part 2 support files](https://gist.github.com/markd2/2135746)
+
+#### Swift
+ * [Quicksort in Swift](https://gist.github.com/fjcaetano/b0c00a889dc2a17efad9)
+ * [GraphQL data structure implemented in Swift](https://gist.github.com/davbeck/e96b543bc0184b04353e)
+ * [Alamofire and RxSwift](https://gist.github.com/mbalex99/8802db1695f20c520ca0)
 
 
 # Contributing
