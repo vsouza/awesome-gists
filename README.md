@@ -163,6 +163,7 @@ Environment configurations and tutorials
  * [GraphQL data structure implemented in Swift](https://gist.github.com/davbeck/e96b543bc0184b04353e)
  * [Alamofire and RxSwift](https://gist.github.com/mbalex99/8802db1695f20c520ca0)
  * [Elegant dequeueing of UITableViewCell](https://gist.github.com/artemnovichkov/de5bd4daf64441c724a429d1a9b1e26e)
+ * [Elegant enum for custom colors worked on both iOS and macOS](https://gist.github.com/artemnovichkov/d04352a2986711e37265236a84082f77)
 
 
 # Contributing
