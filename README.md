@@ -123,6 +123,7 @@ Parsers, files with data collections and more.
 * [Golang Reflection Example](https://gist.github.com/drewolson/4771479)
 * [Mongo Driver - Mgo Example](https://gist.github.com/border/3489566)
 * [Example of using http.Get in go (golang)](https://gist.github.com/ijt/950790)
+* [Go Serverless List](https://github.com/SerifAndSemaphore/go-serverless-list)
 
 #### JavaScript
 * [ES6 highlight reel](https://gist.github.com/getify/2b53198906d320abe650)
