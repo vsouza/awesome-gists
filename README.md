@@ -31,7 +31,7 @@ A collection of awesome gists. Feel free to contribute.
 * [iOS](#ios)
   * [Objective-C](#objective-c)
   * [Swift](#swift)
-* [Performance Analysis and Profiling](#Performance_Analysis_and_Profiling)
+* [performance-analysis-and-profiling](#Performance_Analysis_and_Profiling)
 
 ## Databases
 
