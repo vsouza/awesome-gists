@@ -166,6 +166,8 @@ Environment configurations and tutorials
  * [Elegant dequeueing of UITableViewCell](https://gist.github.com/artemnovichkov/de5bd4daf64441c724a429d1a9b1e26e)
  * [Elegant enum for custom colors worked on both iOS and macOS](https://gist.github.com/artemnovichkov/d04352a2986711e37265236a84082f77)
 
+### Performance Analysis
+* [Various Tools for Performance Analysis and Profiling Programs](https://gist.github.com/Kadle11/d0b49422273905ed705ba55014e1ab2b)
 
 # Contributing
 [See the guide](https://github.com/vsouza/awesome-gists/blob/master/CONTRIBUTING.md)
