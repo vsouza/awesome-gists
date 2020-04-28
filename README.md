@@ -20,7 +20,7 @@ A collection of awesome gists. Feel free to contribute.
   * [CloudFlare](#cloudflare)
 * [Terminal](#terminal)
   * [Tmux](#tmux)
-  * [Zsh] (#zsh)
+  * [Zsh](#zsh)
 * [Testing](#testing)
 * [YAML](#yaml)
 * [JSON](#json)
