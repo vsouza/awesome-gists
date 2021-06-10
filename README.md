@@ -75,6 +75,7 @@ Most used services to deploy, and host your applications.
 * [Install Redis on Amazon EC2 AMI](https://gist.github.com/dstroot/2776679)
 * [Backup MySQL to Amazon S3](https://gist.github.com/oodavid/2206527)
 * [Mapnik on Amazon Linux AMI (Fedora)](https://gist.github.com/springmeyer/3427021)
+* [Installing zsh + oh-my-zsh on Amazon EC2 Amazon Linux 2 AMI](https://gist.github.com/aaabramov/0f1d963d788bf411c0629a6bcf20114d)
 
 #### Tsuru
 * [Deploying Go applications in tsuru](https://gist.github.com/andrewsmedina/8857051)
