@@ -92,6 +92,7 @@ Most used services to deploy, and host your applications.
 
 #### Zsh
 * [iTerm2 + oh my zsh + solarized + Meslo powerline font (OSX)](https://gist.github.com/kevin-smets/8568070)
+* [oh my zsh with autosuggestions & syntax highlighting](https://gist.github.com/dogrocker/1efb8fd9427779c827058f873b94df95)
 
 ## Testing
 * [Selenium with Python](https://gist.github.com/daemianmack/1099713)
