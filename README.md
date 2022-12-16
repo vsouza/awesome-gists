@@ -120,6 +120,7 @@ Parsers, files with data collections and more.
 * [Python HelloWorld (WebFrameworks) Collection](https://gist.github.com/drgarcia1986/3cce1d134c3c3eeb01bd)
 
 #### Golang
+* [File upload example](https://gist.github.com/andrewmilson/19185aab2347f6ad29f5)
 * [example of using JWT for http authentication in go](https://gist.github.com/cryptix/45c33ecf0ae54828e63b#file-asymmetric-go-L152)
 * [extract a javascript object value from a html page using goquery and otto](https://gist.github.com/cryptix/87127f76a94183747b53)
 * [Parse a JSON http POST in GoLang](https://gist.github.com/andreagrandi/97263aaf7f9344d3ffe6)
